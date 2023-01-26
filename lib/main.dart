@@ -98,7 +98,7 @@ class MyApp extends StatelessWidget {
                             padding: EdgeInsets.only(top: 10),
                             child: TextButton(
                               child: Text(
-                                "Not have an account? Let's Register!",
+                                "Not have an account? Let's REGISTER!",
                                 style: TextStyle(
                                     color: Colors.white,
                                     fontWeight: FontWeight.bold),
